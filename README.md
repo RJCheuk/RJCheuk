@@ -1,16 +1,13 @@
-## Hi there 👋
+Jiacheng Zhuo（Richard Zhuo）
+🔗 Connect with me on LinkedIn[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/jiachengzhuo)
+📧 Contact with me by Eamil[richardjcheuk@gmail.com](mailto:richardjcheuk@gmail.com) 
 
-<!--
-**RJCheuk/RJCheuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello! I'm a passionate software engineer specializing in full-stack development (Web & Mobile), with a strong focus on building data-driven solutions.
+I hold a Bachelor’s degree in Finance at UIndy with a strong quantitative background and am currently pursuing a Master’s in Computer Software Engineering at UC Irvine.
 
-Here are some ideas to get you started:
+Programming Languages: Python, Java, JavaScript, C/C++, SQL, R, MATLAB
+Frameworks & Tools: Spring Boot, Django, React, Next.js, Node.js, AWS, Docker, Git, MongoDB, Redis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 My projects focus on delivering practical, real-world solutions which I combine technical execution with exceptional user experience.
+
+Thank you for visiting my GitHub! Feel free to explore my repositories or reach out for collaboration opportunities!
