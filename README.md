@@ -1,6 +1,6 @@
 Jiacheng Zhuo（Richard Zhuo）
 
-🔗 Connect with me on LinkedIn[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](www.linkedin.com/in/jiacheng-zhuo-8b6502285)
+🔗 Connect with me on LinkedIn(www.linkedin.com/in/jiacheng-zhuo-8b6502285)
 
 📧 Contact with me by Email: [richardjcheuk@gmail.com](mailto:richardjcheuk@gmail.com) 
 
